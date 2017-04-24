@@ -1,135 +1,135 @@
 [{
-	"ID": "1",
 	"Sigla": "AC",
 	"Nome": "Acre"
+	"Região": "Norte",
 },
      {
-	"ID": "2",
 	"Sigla": "AL",
 	"Nome": "Alagoas"
+	"Região": "Nordeste",
 },
      {
-	"ID": "3",
 	"Sigla": "AM",
 	"Nome": "Amazonas"
+	"Região": "Norte",
 },
      {
-	"ID": "4",
 	"Sigla": "AP",
 	"Nome": "Amapá"
+	"Região": "Norte",
 },
      {
-	"ID": "5",
 	"Sigla": "BA",
 	"Nome": "Bahia"
+	"Região": "Nordeste",
 },
      {
-	"ID": "6",
 	"Sigla": "CE",
 	"Nome": "Ceará"
+	"Região": "Nordeste",
 },
      {
-	"ID": "7",
 	"Sigla": "DF",
 	"Nome": "Distrito Federal"
+	"Região": "Nordeste",
 },
      {
-	"ID": "8",
 	"Sigla": "ES",
 	"Nome": "Espírito Santo"
+	"Região": "Sudeste",
 },
      {
-	"ID": "9",
 	"Sigla": "GO",
 	"Nome": "Goiás"
+	"Região": "Centro-Oeste",
 },
      {
-	"ID": "10",
 	"Sigla": "MA",
 	"Nome": "Maranhão"
+	"Região": "Nordeste",
 },
      {
-	"ID": "11",
 	"Sigla": "MG",
 	"Nome": "Minas Gerais"
+	"Região": "Sudeste",
 },
      {
-	"ID": "12",
 	"Sigla": "MS",
 	"Nome": "Mato Grosso do Sul"
+	"Região": "Centro-Oeste",
 },
      {
-	"ID": "13",
 	"Sigla": "MT",
 	"Nome": "Mato Grosso"
+	"Região": "Centro-Oeste",
 },
      {
-	"ID": "14",
 	"Sigla": "PA",
 	"Nome": "Pará"
+	"Região": "Norte",
 },
      {
-	"ID": "15",
 	"Sigla": "PB",
 	"Nome": "Paraíba"
+	"Região": "Nordeste",
 },
      {
-	"ID": "16",
 	"Sigla": "PE",
 	"Nome": "Pernambuco"
+	"Região": "Nordeste",
 },
      {
-	"ID": "17",
 	"Sigla": "PI",
 	"Nome": "Piauí"
+	"Região": "Nordeste",
 },
      {
-	"ID": "18",
 	"Sigla": "PR",
 	"Nome": "Paraná"
+	"Região": "Sul",
 },
      {
-	"ID": "19",
 	"Sigla": "RJ",
 	"Nome": "Rio de Janeiro"
+	"Região": "Sudeste",
 },
      {
-	"ID": "20",
 	"Sigla": "RN",
 	"Nome": "Rio Grande do Norte"
+	"Região": "Nordeste",
 },
      {
-	"ID": "21",
 	"Sigla": "RO",
 	"Nome": "Rondônia"
+	"Região": "Norte",
 },
      {
-	"ID": "22",
 	"Sigla": "RR",
 	"Nome": "Roraima"
+	"Região": "Norte",
 },
      {
-	"ID": "23",
 	"Sigla": "RS",
 	"Nome": "Rio Grande do Sul"
+	"Região": "Sul",
 },
      {
-	"ID": "24",
 	"Sigla": "SC",
 	"Nome": "Santa Catarina"
+	"Região": "Sul",
 },
      {
-	"ID": "25",
 	"Sigla": "SE",
 	"Nome": "Sergipe"
+	"Região": "Nordeste",
 },
      {
-	"ID": "26",
 	"Sigla": "SP",
 	"Nome": "São Paulo"
+	"Região": "Sudeste",
 },
      {
-	"ID": "27",
 	"Sigla": "TO",
 	"Nome": "Tocantins"
+	"Região": "Norte",
 }]
