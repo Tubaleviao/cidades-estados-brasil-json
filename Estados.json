@@ -1,135 +1,135 @@
 [{
 	"Sigla": "AC",
-	"Nome": "Acre"
-	"Região": "Norte",
+	"Nome": "Acre",
+	"Região": "Norte"
 },
      {
 	"Sigla": "AL",
-	"Nome": "Alagoas"
-	"Região": "Nordeste",
+	"Nome": "Alagoas",
+	"Região": "Nordeste"
 },
      {
 	"Sigla": "AM",
-	"Nome": "Amazonas"
-	"Região": "Norte",
+	"Nome": "Amazonas",
+	"Região": "Norte"
 },
      {
 	"Sigla": "AP",
-	"Nome": "Amapá"
-	"Região": "Norte",
+	"Nome": "Amapá",
+	"Região": "Norte"
 },
      {
 	"Sigla": "BA",
-	"Nome": "Bahia"
-	"Região": "Nordeste",
+	"Nome": "Bahia",
+	"Região": "Nordeste"
 },
      {
 	"Sigla": "CE",
-	"Nome": "Ceará"
-	"Região": "Nordeste",
+	"Nome": "Ceará",
+	"Região": "Nordeste"
 },
      {
 	"Sigla": "DF",
-	"Nome": "Distrito Federal"
-	"Região": "Nordeste",
+	"Nome": "Distrito Federal",
+	"Região": "Nordeste"
 },
      {
 	"Sigla": "ES",
-	"Nome": "Espírito Santo"
-	"Região": "Sudeste",
+	"Nome": "Espírito Santo",
+	"Região": "Sudeste"
 },
      {
 	"Sigla": "GO",
-	"Nome": "Goiás"
-	"Região": "Centro-Oeste",
+	"Nome": "Goiás",
+	"Região": "Centro-Oeste"
 },
      {
 	"Sigla": "MA",
-	"Nome": "Maranhão"
-	"Região": "Nordeste",
+	"Nome": "Maranhão",
+	"Região": "Nordeste"
 },
      {
 	"Sigla": "MG",
-	"Nome": "Minas Gerais"
-	"Região": "Sudeste",
+	"Nome": "Minas Gerais",
+	"Região": "Sudeste"
 },
      {
 	"Sigla": "MS",
-	"Nome": "Mato Grosso do Sul"
-	"Região": "Centro-Oeste",
+	"Nome": "Mato Grosso do Sul",
+	"Região": "Centro-Oeste"
 },
      {
 	"Sigla": "MT",
-	"Nome": "Mato Grosso"
-	"Região": "Centro-Oeste",
+	"Nome": "Mato Grosso",
+	"Região": "Centro-Oeste"
 },
      {
 	"Sigla": "PA",
-	"Nome": "Pará"
-	"Região": "Norte",
+	"Nome": "Pará",
+	"Região": "Norte"
 },
      {
 	"Sigla": "PB",
-	"Nome": "Paraíba"
-	"Região": "Nordeste",
+	"Nome": "Paraíba",
+	"Região": "Nordeste"
 },
      {
 	"Sigla": "PE",
-	"Nome": "Pernambuco"
-	"Região": "Nordeste",
+	"Nome": "Pernambuco",
+	"Região": "Nordeste"
 },
      {
 	"Sigla": "PI",
-	"Nome": "Piauí"
-	"Região": "Nordeste",
+	"Nome": "Piauí",
+	"Região": "Nordeste"
 },
      {
 	"Sigla": "PR",
-	"Nome": "Paraná"
-	"Região": "Sul",
+	"Nome": "Paraná",
+	"Região": "Sul"
 },
      {
 	"Sigla": "RJ",
-	"Nome": "Rio de Janeiro"
-	"Região": "Sudeste",
+	"Nome": "Rio de Janeiro",
+	"Região": "Sudeste"
 },
      {
 	"Sigla": "RN",
-	"Nome": "Rio Grande do Norte"
-	"Região": "Nordeste",
+	"Nome": "Rio Grande do Norte",
+	"Região": "Nordeste"
 },
      {
 	"Sigla": "RO",
-	"Nome": "Rondônia"
-	"Região": "Norte",
+	"Nome": "Rondônia",
+	"Região": "Norte"
 },
      {
 	"Sigla": "RR",
-	"Nome": "Roraima"
-	"Região": "Norte",
+	"Nome": "Roraima",
+	"Região": "Norte"
 },
      {
 	"Sigla": "RS",
-	"Nome": "Rio Grande do Sul"
-	"Região": "Sul",
+	"Nome": "Rio Grande do Sul",
+	"Região": "Sul"
 },
      {
 	"Sigla": "SC",
-	"Nome": "Santa Catarina"
-	"Região": "Sul",
+	"Nome": "Santa Catarina",
+	"Região": "Sul"
 },
      {
 	"Sigla": "SE",
-	"Nome": "Sergipe"
-	"Região": "Nordeste",
+	"Nome": "Sergipe",
+	"Região": "Nordeste"
 },
      {
 	"Sigla": "SP",
-	"Nome": "São Paulo"
-	"Região": "Sudeste",
+	"Nome": "São Paulo",
+	"Região": "Sudeste"
 },
      {
 	"Sigla": "TO",
-	"Nome": "Tocantins"
-	"Região": "Norte",
+	"Nome": "Tocantins",
+	"Região": "Norte"
 }]
